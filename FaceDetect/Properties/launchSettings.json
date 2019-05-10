@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FaceDetect": {
+      "commandName": "Project",
+      "commandLineArgs": "72572b556c6841d7a5e887d7290b038f \"C:\\temp\\f1.jpeg\""
+    }
+  }
+}
