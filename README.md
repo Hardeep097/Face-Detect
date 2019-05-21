@@ -5,7 +5,7 @@ Upload image and it will give you counts of Faces detected in the image and will
 
 
 -----------------------------------------------------------------------------------------------------------------------------
-My Favourite Design pattern
+Gang of four Design Pattern
 
 
 ![design pattern](https://user-images.githubusercontent.com/24284135/58108693-48fa2f80-7bba-11e9-8832-7d588a743099.PNG)
